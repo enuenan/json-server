@@ -1,0 +1,22 @@
+[{
+	"name": {
+		"firstName": "Moammer",
+		"middleName": "Farshid",
+		"lastName": "Enan"
+	},
+	"age": 25
+}, {
+	"name": {
+		"firstName": "Asif",
+		"middleName": "Jalal",
+		"lastName": "Kutta"
+	},
+	"age": 25
+}, {
+	"name": {
+		"firstName": "Abdullah",
+		"middleName": "bin",
+		"lastName": "Malek"
+	},
+	"age": 25
+}]
